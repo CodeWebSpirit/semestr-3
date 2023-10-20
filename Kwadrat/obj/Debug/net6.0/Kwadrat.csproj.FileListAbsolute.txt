@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.AssemblyInfo.cs
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Kwadrat\bin\Debug\net6.0\Kwadrat.exe
+C:\Users\Student\source\repos\Kwadrat\bin\Debug\net6.0\Kwadrat.deps.json
+C:\Users\Student\source\repos\Kwadrat\bin\Debug\net6.0\Kwadrat.runtimeconfig.json
+C:\Users\Student\source\repos\Kwadrat\bin\Debug\net6.0\Kwadrat.dll
+C:\Users\Student\source\repos\Kwadrat\bin\Debug\net6.0\Kwadrat.pdb
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.dll
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\refint\Kwadrat.dll
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.pdb
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\Kwadrat.genruntimeconfig.cache
+C:\Users\Student\source\repos\Kwadrat\obj\Debug\net6.0\ref\Kwadrat.dll
