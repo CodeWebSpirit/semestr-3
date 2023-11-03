@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Konstruktory/1.0.0": {
+        "runtime": {
+          "Konstruktory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konstruktory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

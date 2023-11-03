@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Konstruktory\bin\Debug\net6.0\Konstruktory.exe
+C:\Users\Student\Desktop\Konstruktory\bin\Debug\net6.0\Konstruktory.deps.json
+C:\Users\Student\Desktop\Konstruktory\bin\Debug\net6.0\Konstruktory.runtimeconfig.json
+C:\Users\Student\Desktop\Konstruktory\bin\Debug\net6.0\Konstruktory.dll
+C:\Users\Student\Desktop\Konstruktory\bin\Debug\net6.0\Konstruktory.pdb
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.AssemblyInfo.cs
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.dll
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\refint\Konstruktory.dll
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.pdb
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\Konstruktory.genruntimeconfig.cache
+C:\Users\Student\Desktop\Konstruktory\obj\Debug\net6.0\ref\Konstruktory.dll
