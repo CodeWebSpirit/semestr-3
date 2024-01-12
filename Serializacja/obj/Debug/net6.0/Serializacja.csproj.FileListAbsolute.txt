@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Serializacja\bin\Debug\net6.0\Serializacja.exe
+C:\Users\Student\source\repos\Serializacja\bin\Debug\net6.0\Serializacja.deps.json
+C:\Users\Student\source\repos\Serializacja\bin\Debug\net6.0\Serializacja.runtimeconfig.json
+C:\Users\Student\source\repos\Serializacja\bin\Debug\net6.0\Serializacja.dll
+C:\Users\Student\source\repos\Serializacja\bin\Debug\net6.0\Serializacja.pdb
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.AssemblyInfo.cs
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.dll
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\refint\Serializacja.dll
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.pdb
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\Serializacja.genruntimeconfig.cache
+C:\Users\Student\source\repos\Serializacja\obj\Debug\net6.0\ref\Serializacja.dll
